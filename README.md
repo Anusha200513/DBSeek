@@ -1,3 +1,3 @@
-## DBSeek
-# Visualize your database with Ai
+# DBSeek
+## Visualize your database with Ai
 
